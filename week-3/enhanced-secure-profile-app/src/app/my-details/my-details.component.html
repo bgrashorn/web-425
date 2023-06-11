@@ -1,0 +1,25 @@
+<!--
+    ========================================================================================================================
+    ; Title: my-details.component.html
+    ; Author: Brett Grashorn
+    ; Date: 6/11/23
+    ; Description: My details html Component
+    ; Work Cited:
+    Coding Guidelines
+    Instructions - Exercise 1.5 - Components
+    Instructions - Exercise 2.3 – Data Binding
+    Instructions - Exercise 3.4 – Passing Data to Routes - Part 2
+    ========================================================================================================================
+-->
+
+<ul class="list-group">
+    <li class="list-group-item">Name: {{ myProfile.fullName }}</li>
+    <li class="list-group-item">Favorite Food: {{ myProfile.favoriteFood }}</li>
+    <li class="list-group-item">Favorite Color: {{ myProfile.favoriteColor }}</li>
+    <li class="list-group-item">
+        Keywords:
+        <span *ngFor="let word of myProfile.keywords">
+            {{ word }}
+        </span>
+    </li>
+</ul>

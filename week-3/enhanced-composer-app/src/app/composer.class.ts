@@ -1,3 +1,10 @@
+/**
+ * Title: composer.class.ts
+ * Author: Brett Grashorn
+ * Date: June 11 2023
+ * Description: Composer Class
+ */
+
 import { IComposer } from './composer.interface';
 export class Composer {
     composers: Array<IComposer>;

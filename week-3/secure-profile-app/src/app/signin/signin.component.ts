@@ -1,3 +1,10 @@
+/**
+ * Title:sign.component.ts
+ * Author: Brett Grashorn
+ * Date: June 11 2023
+ * Description: Sign In component file
+ */
+
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 

@@ -1,3 +1,11 @@
+/**
+ * Title:app.module.ts
+ * Author: Brett Grashorn
+ * Date: June 11 2023
+ * Description: App Module file
+ */
+
+
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 

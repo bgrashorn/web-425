@@ -1,0 +1,35 @@
+<!--
+    ========================================================================================================================
+    ; Title: sign-in.component.html
+    ; Author: Brett Grashorn
+    ; Date: 6/11/23
+    ; Description: Sign-in html Component
+    ; Work Cited:
+    Coding Guidelines
+    Instructions - Exercise 1.5 - Components
+    Instructions - Exercise 2.3 – Data Binding
+    Instructions - Exercise 3.4 – Passing Data to Routes - Part 2
+    ========================================================================================================================
+-->
+
+<div class="card signin-container">
+    <div class="card-body">
+        <h3 class="card-title">Sign In</h3>
+        <br>
+        <form class="card-text">
+            <div class="form-group">
+                <label for="txtUserName">Username</label>
+                <input type="" class="form-control" id="txtUserName" placeholder="Enter your username">
+            </div>
+                <br>
+            <div class="form-group">
+                <label for="txtPassword">Password</label>
+                <input type="password" class="form-control" id="txtPassword" placeholder="Enter your password">
+            </div>
+                <br>
+            <div class="form-group">
+                <button class="btn btn-primary float-right" (click)="signin()">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>

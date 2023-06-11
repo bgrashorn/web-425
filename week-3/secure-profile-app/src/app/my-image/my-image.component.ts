@@ -1,3 +1,10 @@
+/**
+ * Title:my-image.component.ts
+ * Author: Brett Grashorn
+ * Date: June 11 2023
+ * Description: My image file
+ */
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({

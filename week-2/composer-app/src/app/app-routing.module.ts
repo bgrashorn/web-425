@@ -1,3 +1,10 @@
+/**
+ * Title:app-routing.module.ts
+ * Author: Brett Grashorn
+ * Date: June 11 2023
+ * Description: Routing File
+ */
+
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { ComposerListComponent } from './composer-list/composer-list.component';
