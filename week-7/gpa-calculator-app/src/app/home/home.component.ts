@@ -3,11 +3,12 @@
     ; Title: app.component.ts
     ; Author: Brett Grashorn
     ; Bellevue University
-    ; Date: 6/29/23
+    ; Date: 7/7/23
     ; Description: Home component file
     ; Work Cited:
     Coding Guidelines
     Instructions - Assignment 6.4 - Input Properties
+    Instructions - Exercise 7.3 - Form Validation
     Course GitHub
     ========================================================================================================================
  */

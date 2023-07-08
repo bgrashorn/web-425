@@ -3,13 +3,14 @@
     ; Title: base-layout.component.ts
     ; Author: Brett Grashorn
     ; Bellevue University
-    ; Date: 7/6/23
+    ; Date: 7/7/23
     ; Description: Base Layout component file
     ; Work Cited:
     Coding Guidelines
     Instructions - Exercise 6.3 - Layouts
     Instructions - Assignment 6.4 - Input Properties
     Instructions - Exercise 7.2 - Reactive Forms
+    Instructions - Exercise 7.3 - Form Validation
     Course GitHub
     ========================================================================================================================
  */
